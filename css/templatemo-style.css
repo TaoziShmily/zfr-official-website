@@ -834,7 +834,7 @@ textarea.form-control {
   height:100%;
   padding-top:100px;
   box-sizing:border-box;
-  overflow-y:scroll;
+  overflow-y:auto;
 }
 .news-list  .news-item{
   background: rgba(0,0,0,.2);
